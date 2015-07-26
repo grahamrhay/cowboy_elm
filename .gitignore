@@ -5,3 +5,6 @@
 _rel/
 deps/
 ebin/
+
+elm-stuff/
+elm.js

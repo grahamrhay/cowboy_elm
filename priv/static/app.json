@@ -1,0 +1,9 @@
+{
+    "name": "Elm Meets Cowboy",
+    "repository": "https://github.com/grahamrhay/cowboy_elm",
+    "env": {
+        "BUILDPACK_URL": "https://github.com/srid/heroku-buildpack-elm.git",
+        "ELM_COMPILE": "elm make Todo.elm",
+        "ELM_STATIC_DIR": "."
+    }
+}
